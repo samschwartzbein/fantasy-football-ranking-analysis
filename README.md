@@ -2,7 +2,7 @@
 
 Analyzing how effective fantasy football expert rankings are in predicting performance
 
-View Project
+Project
 ------------- 
 https://nbviewer.jupyter.org/github/samschwartzbein/fantasy-football-ranking-analysis/blob/main/Preseason%20Ranking%20Fantasy%20Football%20Final.ipynb
 
