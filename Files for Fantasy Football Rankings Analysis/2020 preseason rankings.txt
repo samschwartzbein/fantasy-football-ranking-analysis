@@ -1,0 +1,202 @@
+Scoring
+#	PLAYER (TEAM)	MIKE TAGLIERE9/10	DAN HARRIS9/10	KYLE YATES9/10
+1	Christian McCaffrey (CAR - RB)	1	1	1
+2	Saquon Barkley (NYG - RB)	2	3	2
+3	Ezekiel Elliott (DAL - RB)	3	2	3
+4	Dalvin Cook (MIN - RB)	4	5	5
+5	Alvin Kamara (NO - RB)	5	7	4
+6	Derrick Henry (TEN - RB)	6	4	8
+7	Clyde Edwards-Helaire (KC - RB)	7	6	9
+8	Joe Mixon (CIN - RB)	10	8	6
+9	Michael Thomas (NO - WR)	8	10	7
+10	Josh Jacobs (LV - RB)	12	9	12
+11	Davante Adams (GB - WR)	9	14	11
+12	Julio Jones (TEN - WR)	11	17	10
+13	Kenyan Drake (LV - RB)	13	11	17
+14	Aaron Jones (GB - RB)	15	12	18
+15	Tyreek Hill (KC - WR)	14	22	14
+16	Chris Godwin (TB - WR)	17	25	13
+17	Miles Sanders (PHI - RB)	21	15	20
+18	DeAndre Hopkins (ARI - WR)	16	24	16
+19	Nick Chubb (CLE - RB)	26	13	19
+20	Travis Kelce (KC - TE)	19	18	25
+21	George Kittle (SF - TE)	18	20	24
+22	Austin Ekeler (LAC - RB)	20	16	29
+23	Lamar Jackson (BAL - QB)	23	30	21
+24	Kenny Golladay (NYG - WR)	25	26	28
+25	Allen Robinson II (CHI - WR)	36	31	15
+26	Patrick Mahomes II (KC - QB)	22	29	37
+27	James Conner (ARI - RB)	28	19	42
+28	Chris Carson (SEA - RB)	32	21	40
+29	Calvin Ridley (ATL - WR)	27	43	23
+30	Odell Beckham Jr. (CLE - WR)	24	42	27
+31	Todd Gurley II (FA - RB)	29	27	39
+32	Adam Thielen (MIN - WR)	34	33	30
+33	JuJu Smith-Schuster (PIT - WR)	35	37	26
+34	D.J. Moore (CAR - WR)	31	35	33
+35	Robert Woods (LAR - WR)	41	40	22
+36	Jonathan Taylor (IND - RB)	33	44	32
+37	A.J. Brown (TEN - WR)	47	34	31
+38	Mark Andrews (BAL - TE)	42	41	34
+39	Le'Veon Bell (FA - RB)	30	32	57
+40	Melvin Gordon III (DEN - RB)	38	38	47
+41	Mike Evans (TB - WR)	48	36	41
+42	David Johnson (HOU - RB)	37	23	66
+43	D.J. Chark Jr. (JAC - WR)	50	46	36
+44	Amari Cooper (DAL - WR)	43	48	45
+45	Mark Ingram II (HOU - RB)	44	39	59
+46	D.K. Metcalf (SEA - WR)	57	53	35
+47	Zach Ertz (PHI - TE)	39	66	46
+48	Terry McLaurin (WAS - WR)	56	49	48
+49	Tyler Lockett (SEA - WR)	40	52	62
+50	David Montgomery (CHI - RB)	54	56	44
+51	Raheem Mostert (SF - RB)	46	28	88
+52	Cooper Kupp (LAR - WR)	64	45	54
+53	Dak Prescott (DAL - QB)	45	63	56
+54	Kareem Hunt (CLE - RB)	63	51	52
+55	DeVante Parker (MIA - WR)	76	54	38
+56	Keenan Allen (LAC - WR)	71	47	50
+57	Deshaun Watson (HOU - QB)	52	67	53
+58	Courtland Sutton (DEN - WR)	70	60	43
+59	Russell Wilson (SEA - QB)	51	75	61
+60	Darren Waller (LV - TE)	49	85	55
+61	Tyler Boyd (CIN - WR)	73	64	58
+62	Kyler Murray (ARI - QB)	53	69	77
+63	Cam Akers (LAR - RB)	80	50	70
+64	Josh Allen (BUF - QB)	58	86	68
+65	Jarvis Landry (CLE - WR)	99	65	49
+66	Stefon Diggs (BUF - WR)	98	59	67
+67	Hayden Hurst (ATL - TE)	62	100	63
+68	Carson Wentz (IND - QB)	60	101	69
+69	A.J. Green (ARI - WR)	72	62	97
+70	Devin Singletary (BUF - RB)	81	72	80
+71	Antonio Gibson (WAS - RB)	116	58	60
+72	Hunter Henry (NE - TE)	55	102	78
+73	T.Y. Hilton (IND - WR)	74	55	111
+74	Matt Ryan (ATL - QB)	59	92	89
+75	Leonard Fournette (TB - RB)	67	80	98
+76	Jordan Howard (PHI - RB)	91	104	51
+77	Zack Moss (BUF - RB)	93	71	86
+78	Jamison Crowder (NYJ - WR)	111	76	65
+79	Julian Edelman (NE - WR)	115	68	71
+80	Diontae Johnson (PIT - WR)	108	84	64
+81	Tyler Higbee (LAR - TE)	68	99	90
+82	Tarik Cohen (CHI - RB)	75	97	85
+83	Tom Brady (TB - QB)	61	105	93
+84	Drew Brees (NO - QB)	66	96	101
+85	Michael Gallup (DAL - WR)	102	57	105
+86	Marquise Brown (BAL - WR)	109	61	95
+87	Phillip Lindsay (HOU - RB)	87	103	76
+88	D'Andre Swift (DET - RB)	92	73	102
+89	Will Fuller V (MIA - WR)	103	74	94
+90	Cam Newton (NE - QB)	78	106	87
+91	Aaron Rodgers (GB - QB)	65	110	103
+92	Henry Ruggs III (LV - WR)	126	78	74
+93	Evan Engram (NYG - TE)	79	107	92
+94	Marvin Jones Jr. (JAC - WR)	110	70	107
+95	Jerry Jeudy (DEN - WR)	112	95	81
+96	Brandin Cooks (HOU - WR)	125	89	82
+97	Anthony Miller (CHI - WR)	136	88	73
+98	James White (NE - RB)	117	82	110
+99	Jonnu Smith (NE - TE)	100	140	72
+100	Ronald Jones II (TB - RB)	113	115	84
+101	CeeDee Lamb (DAL - WR)	127	77	109
+102	Joe Burrow (CIN - QB)	77	123	115
+103	Darius Slayton (NYG - WR)	147	98	75
+104	Latavius Murray (NO - RB)	106	131	83
+105	Christian Kirk (ARI - WR)	114	83	126
+106	Ben Roethlisberger (PIT - QB)	83	121	123
+107	Blake Jarwin (DAL - TE)	86	139	106
+108	Gardner Minshew II (JAC - QB)	85	135	112
+109	Matthew Stafford (LAR - QB)	69	117	148
+110	DeSean Jackson (LAR - WR)	145	91	99
+111	Jared Goff (DET - QB)	84	128	129
+112	Jared Cook (LAC - TE)	89	116	137
+113	John Brown (LV - WR)	146	81	120
+114	Daniel Jones (NYG - QB)	82	119	152
+115	Robby Anderson (CAR - WR)	148	130	79
+116	Ryan Tannehill (TEN - QB)	95	146	116
+117	Sterling Shepard (NYG - WR)	107	87	165
+118	T.J. Hockenson (DET - TE)	105	122	133
+119	Chris Herndon IV (NYJ - TE)	90	138	134
+120	Austin Hooper (CLE - TE)	129	112	125
+121	Mike Gesicki (MIA - TE)	128	137	104
+122	Preston Williams (MIA - WR)	144	90	136
+123	Matt Breida (BUF - RB)	123	132	117
+124	Deebo Samuel (SF - WR)	143	79	155
+125	J.K. Dobbins (BAL - RB)	162	108	108
+126	Sony Michel (NE - RB)	124	136	130
+127	Emmanuel Sanders (BUF - WR)	161	93	145
+128	Baker Mayfield (CLE - QB)	94	153	156
+129	Marlon Mack (IND - RB)	158	113	132
+130	Tevin Coleman (NYJ - RB)	172	141	91
+131	Golden Tate (FA - WR)	160	111	135
+132	Tyrod Taylor (HOU - QB)	101	195	114
+133	Kirk Cousins (MIN - QB)	97	151	168
+134	Noah Fant (DEN - TE)	153	145	119
+135	Allen Lazard (GB - WR)	159	118	146
+136	Duke Johnson Jr. (FA - RB)	170	168	96
+137	Dallas Goedert (PHI - TE)	154	133	151
+138	Teddy Bridgewater (DEN - QB)	96	170	173
+139	Parris Campbell (IND - WR)	169	144	127
+140	Alexander Mattison (MIN - RB)	176	158	113
+141	Chris Thompson (JAC - RB)	171	152	124
+142	Philip Rivers (IND - QB)	88	171	192
+143	Drew Lock (DEN - QB)	118	179	159
+144	Tony Pollard (DAL - RB)	175	174	118
+145	Darrell Henderson (LAR - RB)	165	177	128
+146	Joshua Kelley (LAC - RB)	179	172	121
+147	Sammy Watkins (BAL - WR)	155	148	169
+148	Mecole Hardman (KC - WR)	209	94	170
+149	Jimmy Garoppolo (SF - QB)	119	165	189
+150	Boston Scott (PHI - RB)	173	114	187
+151	Derek Carr (LV - QB)	142	173	163
+152	Kerryon Johnson (PHI - RB)	174	164	144
+153	N'Keal Harry (NE - WR)	149	129	216
+154	James Robinson (JAC - RB)	178	159	164
+155	Mike Williams (LAC - WR)	156	125	225
+156	Rob Gronkowski (TB - TE)	104	109	
+157	Corey Davis (NYJ - WR)	164	149	208
+158	Darrynton Evans (TEN - RB)	180	201	142
+159	Jalen Reagor (PHI - WR)	168	142	214
+160	Darrel Williams (KC - RB)	183	169	175
+161	Curtis Samuel (WAS - WR)	208	124	197
+162	Michael Pittman Jr. (IND - WR)		147	100
+163	AJ Dillon (GB - RB)	184	188	172
+164	Jalen Richard (LV - RB)	185	220	147
+165	San Francisco 49ers (SF - DST)	121		138
+166	Pittsburgh Steelers (PIT - DST)	120		143
+167	Anthony McFarland Jr. (PIT - RB)	182	237	141
+168	Chase Edmonds (ARI - RB)	197	181	182
+169	Nyheim Hines (IND - RB)	177	231	154
+170	Rex Burkhead (HOU - RB)	187	194	183
+171	Sam Darnold (CAR - QB)	151	191	224
+172	Adrian Peterson (DET - RB)	191	196	179
+173	Baltimore Ravens (BAL - DST)	122		150
+174	Dwayne Haskins (PIT - QB)	152	182	236
+175	Eric Ebron (PIT - TE)		150	131
+176	Bryan Edwards (LV - WR)		143	139
+177	Randall Cobb (HOU - WR)		161	122
+178	Buffalo Bills (BUF - DST)	130		157
+179	Chicago Bears (CHI - DST)	131		160
+180	New Orleans Saints (NO - DST)	132		162
+181	Kansas City Chiefs (KC - DST)	133		161
+182	Carlos Hyde (JAC - RB)	196	198	203
+183	Larry Fitzgerald (ARI - WR)		154	153
+184	Los Angeles Chargers (LAC - DST)	138		171
+185	Jack Doyle (IND - TE)	157	155	
+186	Bryce Love (WAS - RB)	195	178	239
+187	Cole Beasley (BUF - WR)		160	158
+188	Peyton Barber (WAS - RB)	188	250	180
+189	Brandon Aiyuk (SF - WR)		127	195
+190	Philadelphia Eagles (PHI - DST)	134		191
+191	New England Patriots (NE - DST)	135		190
+192	Giovani Bernard (TB - RB)	189	257	176
+193	Jerick McKinnon (KC - RB)	181	277	166
+194	Justin Jackson (LAC - RB)	192	213	221
+195	Jamaal Williams (DET - RB)	200	246	181
+196	Breshad Perriman (DET - WR)		120	211
+197	Justin Jefferson (MIN - WR)		126	206
+198	Damien Harris (NE - RB)	194	186	250
+199	Tennessee Titans (TEN - DST)	139		196
+200	Laviska Shenault Jr. (JAC - WR)		157	178
